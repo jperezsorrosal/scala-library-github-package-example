@@ -1,0 +1,12 @@
+.idea/
+
+# sbt
+# (may want to keep parts of 'project')
+bin/
+project/*
+!project/plugins.sbt
+target/
+build/
+
+*.class
+*.log
